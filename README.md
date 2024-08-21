@@ -1,0 +1,1 @@
+Se desea implementar un modelo de Regresión o de Clasificación, para poder predecir los desechos generados en las Viviendas y en los Comercios. Se tiene el consolidado de la información de los primeros 5 y 7 días de los desechos producidos respectivamente; con esta información se desea predecir la cantidad de desecho que se producirá en los días posteriores.
